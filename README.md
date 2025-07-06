@@ -29,7 +29,7 @@ I'm Kumar Nihal, a self-taught developer and 6th-semester BCA student from **Vin
 
 ## 🚀 Featured Projects
 
-### 📬 MailBuddy (Gmail Agent)
+### 📬 MailBuddy
 > Automates Gmail processing using Composio + Langchain
 
 [🔗 View Project](https://github.com/KNIHAL/MailBuddy.git)
@@ -43,7 +43,7 @@ I'm Kumar Nihal, a self-taught developer and 6th-semester BCA student from **Vin
 
 ---
 
-### 📄 JobReady AI (Resume Analyzer)
+### 📄 JobReady AI 
 > Analyzes resumes and suggests job matches using AI workflows.
 
 [🔗 View Project](https://github.com/KNIHAL/jobready-ai)
