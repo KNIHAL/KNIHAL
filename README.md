@@ -32,7 +32,7 @@ I'm Kumar Nihal, a self-taught developer and 6th-semester BCA student from **Vin
 ### 📬 MailBuddy (Gmail Agent)
 > Automates Gmail processing using Composio + Langchain
 
-[🔗 View Project](https://github.com/KNIHAL/gmail-agent)
+[🔗 View Project](https://github.com/KNIHAL/MailBuddy.git)
 
 ---
 
