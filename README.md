@@ -72,11 +72,3 @@ I'm Kumar Nihal, a self-taught developer and 6th-semester BCA student from **Vin
 🌐 [GitHub Profile](https://github.com/KNIHAL)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knihal&show_icons=true&theme=default" alt="Kumar Nihal GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knihal&" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knihal&layout=compact" alt="Top Languages" />
-</p>
