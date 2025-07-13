@@ -27,32 +27,6 @@ I'm Kumar Nihal, a self-taught developer and 6th-semester BCA student from **Vin
 
 ---
 
-## 🚀 Featured Projects
-
-### 📬 MailBuddy
-> Automates Gmail processing using Composio + Langchain
-
-[🔗 View Project](https://github.com/KNIHAL/MailBuddy.git)
-
----
-
-### 🧠 IdeaCouncil AI
-> A multi-agent system for brainstorming and decision support.
-
-[🔗 View Project](https://github.com/KNIHAL/IdeaCouncil)
-
----
-
-### 📄 JobReady AI 
-> Analyzes resumes and suggests job matches using AI workflows.
-
-[🔗 View Project](https://github.com/KNIHAL/jobready-ai)
-
----
-
-### 🔒 Private Projects (Coming Soon)
-- **Codemaster AI** – An intelligent agent for reviewing and generating code
-- **AutoDev AI** – Full Stack AI Developer that builds and deploys web apps from a single prompt
 
 ---
 
