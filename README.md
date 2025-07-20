@@ -71,36 +71,20 @@
 </p>
 
 **Reach out to me for project inquiries or collaborations:**
-📧 **[your.email@example.com](mailto:your.email@example.com)** 🔗 **[Connect with me on LinkedIn!](https://www.linkedin.com/in/kumarnihal/)** ---
-
-## 💡 My Latest Endeavors & Insights
-
-### 📝 Blog Posts & Notes
-<p>
-  I regularly share my learnings and insights on AI Agent development, cloud, and programming. Find my detailed notes and blog posts here:
-</p>
-
--   [Link to your Blog/Notes Page 1 (e.g., "Exploring CrewAI's Collaborative Agents")](https://knihal.github.io/AI-Agents-Development-HandBook/blog-link-1)
--   
--   [Link to your Blog/Notes Page 2 (e.g., "Setting Up RAG with FlowiseAI on AWS")](https://knihal.github.io/AI-Agents-Development-HandBook/blog-link-2)
-### 📈 GitHub Stats (Dynamic)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarnihal&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kumar Nihal's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarnihal&layout=compact&theme=dark" alt="Top Languages">
-</p>
+📧 **[Connect with me on Gmail](mailto:your.nihalpandey1205@gmail.com)** 🔗 **[Connect with me on LinkedIn!](https://www.linkedin.com/in/kumar-nihal-260b7a351/)** ---
 
 ---
 
 ## 🙏 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kumarnihal/">
+  <a href="https://www.linkedin.com/in/kumar-nihal-260b7a351/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/kumarnihal">
+  <a href="https://github.com/KNIHAL">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.nihalpandery1205@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   </p>
