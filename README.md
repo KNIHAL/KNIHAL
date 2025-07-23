@@ -41,41 +41,7 @@
 
 ---
 
-## 📚 Featured Project: AI Agent Development Handbook (AgentKit)
-
-<p>
-  I'm building a comprehensive **AI Agent Development Handbook (codename: AgentKit)** to serve as a guiding light for aspiring and experienced AI developers. This handbook aims to simplify intricate AI Agent concepts and provide practical implementation strategies.
-</p>
-
--   **Purpose:** To offer structured guidance and practical examples for building AI Agents, overcoming the lack of proper resources in this rapidly evolving field.
--   **Current Focus:** Detailed modules on Agentic Frameworks (like CrewAI), LLM integration, and robust deployment strategies.
--   **Access it here:** [https://knihal.github.io/AI-Agents-Development-HandBook/](https://knihal.github.io/AI-Agents-Development-HandBook/) <p align="center">
-  Your contributions and feedback are highly valued! Let's build the ultimate AI Agent resource together. ✨
-</p>
-
----
-
-## 💼 My Services & Collaboration Opportunities
-
-<p>
-  Looking for intelligent automation or AI-powered solutions? I'm actively exploring freelancing opportunities and collaborations in:
-</p>
-
--   **AI Agent Development:** Building custom AI agents for specific tasks (e.g., data analysis, automated research, smart assistants).
--   **LLM Integration & Fine-tuning:** Integrating powerful Large Language Models into your applications.
--   **Workflow Automation:** Crafting efficient automation pipelines using tools like n8n or custom scripts.
--   **Cloud Deployment & DevOps:** Setting up scalable and reliable infrastructure for your AI projects on AWS.
-
-<p>
-  Let's discuss how AI Agents can transform your business or project.
-</p>
-
-**Reach out to me for project inquiries or collaborations:**
-📧 **[Connect with me on Gmail](mailto:your.nihalpandey1205@gmail.com)** 🔗 **[Connect with me on LinkedIn!](https://www.linkedin.com/in/kumar-nihal-260b7a351/)** ---
-
----
-
-## 🙏 Let's Connect!
+## 👋 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kumar-nihal-260b7a351/">
