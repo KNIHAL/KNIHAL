@@ -32,7 +32,6 @@
 ### 🏆 Badges & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KNIHAL&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
   <img src="https://streak-stats.demolab.com?user=KNIHAL&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=KNIHAL&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
