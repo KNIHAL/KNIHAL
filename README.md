@@ -40,7 +40,7 @@ Looking to automate your business operations or build a custom AI SaaS product?
 * 🌐 **Website:** [causly.in](https://causly.in)
 * ✉️ **Email:** [nihal@causly.in](mailto:nihal@causly.in)
 * 💼 **LinkedIn:** [Kumar Nihal](https://www.linkedin.com/in/kumar-nihal)
-* 🐦 **X / Twitter:** [@Nihal Pandey](https://x.com/PandeyNiha54531)
+* 🐦 **X / Twitter:** [@PandeyNiha54531](https://x.com/PandeyNiha54531)
 * 📅 **Book a Call:** [Schedule a Strategy Session](https://calendly.com/nihal-causly/30min) 
 
 ---
