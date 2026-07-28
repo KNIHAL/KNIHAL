@@ -15,14 +15,6 @@ At **Causly**, we help businesses scale faster by building intelligent systems, 
 
 ---
 
-## 🛠️ Featured Projects
-
-### 📧 [Warmyyy](https://github.com/KNIHAL/warmyyy) *(In Active Development)*
-> **100% Free Open-Source Gmail Warmup Tool**  
-An automated email warming tool designed to improve inbox deliverability and domain reputation effortlessly. Built as a free community tool by Causly.
-
----
-
 ## 🧰 Tech & Engineering Capabilities
 
 I am technology-agnostic—focusing on delivering high-impact solutions using whatever stack best solves the business problem:
